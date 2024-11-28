@@ -1,4 +1,4 @@
-# Proyecto-DOM-JS
+
 # Proyecto DOM con JavaScript
 
 Este proyecto es una práctica que explora la manipulación del DOM (Document Object Model) utilizando JavaScript. A través de esta implementación, se busca entender y dominar las interacciones dinámicas con una página web mediante eventos, creación de elementos y modificaciones de estilos.
